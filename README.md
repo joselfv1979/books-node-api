@@ -1,6 +1,6 @@
 # books-node-api
 
-## Bookstore management api
+## Book store management api
 
 * Typescript
 * Node.js
